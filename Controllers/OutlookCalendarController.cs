@@ -215,7 +215,7 @@ public class OutlookCalendarController : ControllerBase
         private static Items GetAppointmentsInRange(MAPIFolder folder, DateTime startTime, DateTime endTime)
         {
             string filter = "[Start] >= '" + startTime.ToString("g") + "' AND [END] <= '"+ endTime.ToString("g") + "'";
-            Console.WriteLine(filter);
+            //Console.WriteLine(filter);
             try
             {
                 Items calItems = folder.Items;
