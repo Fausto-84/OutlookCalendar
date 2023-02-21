@@ -1,0 +1,13 @@
+C:\Users\fausto\Documents\My Projects\OutlookCalendar\bin\Release\net6.0\publish\OutlookCalendar.exe
+C:\Users\fausto\Documents\My Projects\OutlookCalendar\bin\Release\net6.0\publish\appsettings.Development.json
+C:\Users\fausto\Documents\My Projects\OutlookCalendar\bin\Release\net6.0\publish\appsettings.json
+C:\Users\fausto\Documents\My Projects\OutlookCalendar\bin\Release\net6.0\publish\OutlookCalendar.dll
+C:\Users\fausto\Documents\My Projects\OutlookCalendar\bin\Release\net6.0\publish\OutlookCalendar.deps.json
+C:\Users\fausto\Documents\My Projects\OutlookCalendar\bin\Release\net6.0\publish\OutlookCalendar.runtimeconfig.json
+C:\Users\fausto\Documents\My Projects\OutlookCalendar\bin\Release\net6.0\publish\OutlookCalendar.pdb
+C:\Users\fausto\Documents\My Projects\OutlookCalendar\bin\Release\net6.0\publish\Microsoft.Office.Interop.Outlook.dll
+C:\Users\fausto\Documents\My Projects\OutlookCalendar\bin\Release\net6.0\publish\Microsoft.OpenApi.dll
+C:\Users\fausto\Documents\My Projects\OutlookCalendar\bin\Release\net6.0\publish\Office.dll
+C:\Users\fausto\Documents\My Projects\OutlookCalendar\bin\Release\net6.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\fausto\Documents\My Projects\OutlookCalendar\bin\Release\net6.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\fausto\Documents\My Projects\OutlookCalendar\bin\Release\net6.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
